@@ -1,7 +1,7 @@
 {
   "name": "months",
   "description": "Months of the year.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/jonschlinkert/months",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/months",
@@ -24,8 +24,20 @@
   ],
   "verb": {
     "related": {
-      "list": []
+      "list": [
+        "days",
+        "nanoseconds",
+        "o-clock",
+        "pretty-time",
+        "seconds",
+        "time-stamp",
+        "week",
+        "year"
+      ]
     },
-    "layout": "default"
+    "layout": "default",
+    "plugins": [
+      "gulp-format-md"
+    ]
   }
 }
