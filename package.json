@@ -2,16 +2,16 @@
   "name": "months",
   "description": "Months of the year.",
   "version": "1.1.0",
-  "homepage": "https://github.com/jonschlinkert/months",
+  "homepage": "https://github.com/datetime/months",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "contributors": [
     "Brian Woodward (https://twitter.com/doowb)",
     "Federico Vitale (https://rawnly.com)",
     "Jon Schlinkert (http://twitter.com/jonschlinkert)"
   ],
-  "repository": "jonschlinkert/months",
+  "repository": "datetime/months",
   "bugs": {
-    "url": "https://github.com/jonschlinkert/months/issues"
+    "url": "https://github.com/datetime/months/issues"
   },
   "license": "MIT",
   "files": [

@@ -1,4 +1,4 @@
-# months [![NPM version](https://img.shields.io/npm/v/months.svg?style=flat)](https://www.npmjs.com/package/months) [![NPM monthly downloads](https://img.shields.io/npm/dm/months.svg?style=flat)](https://npmjs.org/package/months)  [![NPM total downloads](https://img.shields.io/npm/dt/months.svg?style=flat)](https://npmjs.org/package/months) [![Linux Build Status](https://img.shields.io/travis/jonschlinkert/months.svg?style=flat&label=Travis)](https://travis-ci.org/jonschlinkert/months) 
+# months [![NPM version](https://img.shields.io/npm/v/months.svg?style=flat)](https://www.npmjs.com/package/months) [![NPM monthly downloads](https://img.shields.io/npm/dm/months.svg?style=flat)](https://npmjs.org/package/months)  [![NPM total downloads](https://img.shields.io/npm/dt/months.svg?style=flat)](https://npmjs.org/package/months) [![Linux Build Status](https://img.shields.io/travis/datetime/months.svg?style=flat&label=Travis)](https://travis-ci.org/datetime/months) 
 
 > Months of the year.
 
