@@ -22,7 +22,7 @@ describe('months', function() {
     assert.equal(months.abbr.it[8], 'Set');
   });
 
-  it('should have German translations', function () {
+  it('should have German translations', function() {
     assert.equal(Array.isArray(months.de), true);
     assert.equal(months.de[8], 'September');
     assert.equal(Array.isArray(months.abbr.de), true);

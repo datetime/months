@@ -1,8 +1,8 @@
 /*!
- * months <https://github.com/jonschlinkert/months>
+ * months <https://github.com/datetime/months>
  *
- * Copyright (c) 2014 Jon Schlinkert, contributors.
- * Licensed under the MIT license.
+ * Copyright (c) 2014-2017, Jon Schlinkert.
+ * Released under the MIT License.
  */
 
 // English Translation
