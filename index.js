@@ -19,7 +19,7 @@ module.exports.abbr.de = [ 'Jan', 'Feb', 'Mär', 'Apr', 'Mai', 'Jun', 'Jul', 'Au
 
 // Greek Translation
 module.exports.gr = ['Ιανουάριος', 'Φεβρουάριος', 'Μάρτιος', 'Απρίλιος', 'Μάιος', 'Ιούνιος', 'Ιούλιος', 'Αύγουστος', 'Σεπτέμβριος', 'Οκτώβριος', 'Νοέμβριος', 'Δεκέμβριος'];
-module.exports.abbr.gr = ['Ιαν', 'Φεβρ', 'Μαρτ', 'Απρ', 'Μάι', 'Ιούν', 'Ιούλ', 'Αυγ', 'Σεπτ', 'Οκτ', 'Νοεμ', 'Δεκ'];
+module.exports.abbr.gr = ['Ιαν', 'Φεβρ', 'Μαρτ', 'Απρ', 'Μάιος', 'Ιούν', 'Ιούλ', 'Αυγ', 'Σεπτ', 'Οκτ', 'Νοεμ', 'Δεκ'];
 
 // Dutch Translation
 module.exports.nl = ['Januari', 'Februari', 'Maart', 'April', 'Mei', 'Juni', 'Juli', 'Augustus', 'September', 'Oktober', 'November', 'December'];
