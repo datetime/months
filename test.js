@@ -33,7 +33,7 @@ describe('months', function() {
     assert.equal(Array.isArray(months.gr), true);
     assert.equal(months.gr[8], 'Σεπτέμβριος');
     assert.equal(Array.isArray(months.abbr.gr), true);
-    assert.equal(months.abbr.gr[8], 'Σεπ');
+    assert.equal(months.abbr.gr[8], 'Σεπτ');
   });
 
   it('should have Dutch translations', function() {

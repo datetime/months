@@ -51,13 +51,13 @@ console.log(months.gr);
 //=> [ 'Ιανουάριος', 'Φεβρουάριος', 'Μάρτιος', 'Απρίλιος', 'Μάιος', 'Ιούνιος', 'Ιούλιος', 'Αύγουστος', 'Σεπτέμβριος', 'Οκτώβριος', 'Νοέμβριος', 'Δεκέμβριος' ];
 
 console.log(months.abbr.gr);
-//=> [ 'Ιαν', 'Φεβ', 'Μαρ', 'Απρ', 'Μάι', 'Ιον', 'Ιολ', 'Αυγ', 'Σεπ', 'Οκτ', 'Νοε', 'Δεκ' ]
+//=> [ 'Ιαν', 'Φεβρ', 'Μαρτ', 'Απρ', 'Μάι', 'Ιούν', 'Ιούλ', 'Αυγ', 'Σεπτ', 'Οκτ', 'Νοεμ', 'Δεκ' ]
 
 console.log(months.nl);
 //=> [ 'Januari', 'Februari', 'Maart', 'April', 'Mei', 'Juni', 'Juli', 'Augustus', 'September', 'Oktober', 'November', 'December' ];
 
 console.log(months.abbr.nl);
-//=> [ 'Jan', 'Feb', 'Mrt', 'Apr', 'Mei', 'Jun', 'Jul', 'Aug', 'Sep', 'Okt', 'Nov', 'Dec' ]
+//=> [ 'Jan', 'Feb', 'Maart', 'Apr', 'Mei', 'Juni', 'Juli', 'Aug', 'Sep', 'Okt', 'Nov', 'Dec' ]
 ```
 
 ## About
