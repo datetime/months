@@ -28,4 +28,18 @@ describe('months', function() {
     assert.equal(Array.isArray(months.abbr.de), true);
     assert.equal(months.abbr.de[8], 'Sep');
   });
+
+  it('should have Greek translations', function() {
+    assert.equal(Array.isArray(months.gr), true);
+    assert.equal(months.gr[8], 'Σεπτέμβριος');
+    assert.equal(Array.isArray(months.abbr.gr), true);
+    assert.equal(months.abbr.gr[8], 'Σεπ');
+  });
+
+  it('should have Dutch translations', function() {
+    assert.equal(Array.isArray(months.nl), true);
+    assert.equal(months.nl[8], 'September');
+    assert.equal(Array.isArray(months.abbr.nl), true);
+    assert.equal(months.abbr.nl[8], 'Sep');
+  });
 });
