@@ -42,4 +42,11 @@ describe('months', function() {
     assert.equal(Array.isArray(months.abbr.nl), true);
     assert.equal(months.abbr.nl[8], 'Sep');
   });
+
+  it('should have Portuguese translations', function() {
+    assert.equal(Array.isArray(months.pt), true);
+    assert.equal(months.pt[8], 'Setembro');
+    assert.equal(Array.isArray(months.abbr.pt), true);
+    assert.equal(months.abbr.pt[8], 'Set');
+  });
 });
